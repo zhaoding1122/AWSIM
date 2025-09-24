@@ -272,6 +272,8 @@ Especially, `BoundingBox` parameter is crucial to validate the collisions correc
 
 The entitiy parameters of default `AWSIM` assets are listed in the following table:
 
+testtest
+
 Ego Vehicle Entity
 
 | model name    | boundingbox size (m)                                  | wheel base(m) | front tread(m) | rear tread(m) | tier diameter(m) | max steer(deg) |
